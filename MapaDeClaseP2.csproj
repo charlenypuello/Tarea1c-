@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Administrador.cs" />
+    <Compile Include="Administrativo.cs" />
+    <Compile Include="Docente.cs" />
+    <Compile Include="Empleado.cs" />
+    <Compile Include="Estudiante.cs" />
+    <Compile Include="ExAlumno.cs" />
+    <Compile Include="Maestro.cs" />
+    <Compile Include="MiembroDeLaComunidad.cs" />
+    <Compile Include="Program.cs" />
+  </ItemGroup>
+</Project>
